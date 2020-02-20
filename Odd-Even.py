@@ -6,9 +6,7 @@ if(n>0):
     else:
         print("Number is odd.")
 else:
-<<<<<<< HEAD
     print("Entered number is negative.")
-=======
     print("Entered number is negative")
     print("see the change")
->>>>>>> slave
+
