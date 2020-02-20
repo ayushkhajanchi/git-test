@@ -6,6 +6,7 @@ if(n>0):
     else:
         print("Number is odd.")
 else:
-    print("Entered number is negative")
+    print("Entered number is POSITIVE")
+	
     
 
