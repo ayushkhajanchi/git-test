@@ -7,4 +7,4 @@ if(n>0):
         print("Number is odd")
 else:
     print("Entered number is negative")
-    print("see the change")
+    print("change is done!")
