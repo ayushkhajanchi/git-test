@@ -1,4 +1,4 @@
-n=int(input("Enter input here:"))
+n=int(input("Enter your input here:"))
 
 if(n>0):
     if(n%2==0):
